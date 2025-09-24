@@ -9,13 +9,13 @@ def hello_world():
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Spidy Repo</title>
+    <title>ＮＯＭＩＳ Repo</title>
     <link rel="icon" type="image/x-icon" href="https://tinypic.host/images/2025/04/23/1000058493.jpg">
 </head>
 
 <body style="background-color: #000; color: #fff; font-family: monospace; text-align: center; padding-top: 60px;">
     <div class="container">
-        <a href="https://github.com/nikhilsaini098" style="text-decoration: none; color: #ff3c00;">
+        <a href="https://github.com/" style="text-decoration: none; color: #ff3c00;">
             <p>
     />▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄<br>
     />███░████░████░████░███░██░██<br>
@@ -32,9 +32,9 @@ def hello_world():
 
     <footer style="color: white; margin-top: 80px;">
         <center>
-            <img src="https://tinypic.host/images/2025/04/23/1000058493.jpg" width="240" height="120" alt="Spidy Logo">
-            <h3>Powered By SPIDY</h3>
-            <img src="https://tinypic.host/images/2025/04/23/1000058493.jpg" width="240" height="120" alt="Spidy Logo">
+            <img src="https://te.legra.ph/file/5162e22ce0fa4148a87b7-fa8edd24bd84d81e46.jpg" width="240" height="120" alt="ＮＯＭＩＳ Logo">
+            <h3>Powered By ＮＯＭＩＳ</h3>
+            <img src="https://te.legra.ph/file/5162e22ce0fa4148a87b7-fa8edd24bd84d81e46.jpg" width="240" height="120" alt="ＮＯＭＩＳ Logo">
             <div>
                 <p style="margin-top: 10px;">© 2024 Video Downloader. All rights reserved.</p>
             </div>
